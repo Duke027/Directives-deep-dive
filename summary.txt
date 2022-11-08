@@ -4,3 +4,5 @@ ngFor and ngIf Recap - a recap on how to use ngFor and ngIf
 ngClass and ngStyle Recap - a recap on how to use ngClass and ngStyle
 Creating a Basic Attribute Directive - create a new file for your directive first. next you'll want to import your stuff from @angular/core.
 you'll need to create a constuctor to be able to create and access the new element. then, use ngOnInit() to change things in your new element
+Using the Renderer to build a Better Attribute Directive - using a Renderer can do the same thing as a basic attribute directive, but it can access it
+without the DOM
