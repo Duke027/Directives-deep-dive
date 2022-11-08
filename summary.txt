@@ -7,3 +7,4 @@ you'll need to create a constuctor to be able to create and access the new eleme
 Using the Renderer to build a Better Attribute Directive - using a Renderer can do the same thing as a basic attribute directive, but it can access it
 without the DOM
 Using HostListener to Listen to Host Events - you can use @HostListener to react to certain Events
+Using HostBinding to Bind to Host Properties - 
