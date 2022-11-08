@@ -1,2 +1,3 @@
 Module Introduction - attribute directives vs structural directives. attribute directives anly change the element they are added to.
 structural directives affect a whole area in the DOM
+ngFor and ngIf Recap - a recap on how to use ngFor and ngIf
