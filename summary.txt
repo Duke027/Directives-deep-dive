@@ -2,3 +2,5 @@ Module Introduction - attribute directives vs structural directives. attribute d
 structural directives affect a whole area in the DOM
 ngFor and ngIf Recap - a recap on how to use ngFor and ngIf 
 ngClass and ngStyle Recap - a recap on how to use ngClass and ngStyle
+Creating a Basic Attribute Directive - create a new file for your directive first. next you'll want to import your stuff from @angular/core.
+you'll need to create a constuctor to be able to create and access the new element. then, use ngOnInit() to change things in your new element
